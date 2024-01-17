@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.name h1 {
+    color: rgb(245, 118, 118);
+}
+
+.img img {
+    width: 100px;
+    border-radius: 50%;
+}
